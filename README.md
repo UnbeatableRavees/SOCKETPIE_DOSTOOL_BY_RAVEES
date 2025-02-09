@@ -12,19 +12,23 @@
 
 # INSTALL
 
-**REPLIT**
-```
-curl -O https://raw.githubusercontent.com/Hex1629/INSTALL_MYPROJECT/main/INSTALL_SCRIPT/socketpie.replit && bash socketpie.replit
-```
-
-**LINUX**
-```
-curl -O https://raw.githubusercontent.com/Hex1629/INSTALL_MYPROJECT/main/INSTALL_SCRIPT/socketpie.linux && bash socketpie.linux
-```
 
 **WINDOWS**
 ```
-cd Downloads && cd SOCKETPIE_DOSTOOL-main && pip install requests && pip install colorama && python pie.py
+pip install requests
+pip install colorama
+git clone https://github.com/UnbeatableRavees/SOCKETPIE_DOSTOOL_BY_RAVEES
+cd SOCKETPIE_DOSTOOL_BY_RAVEES
+python pie.py
+```
+
+**TERMUX**
+```
+pip install requests
+pip install colorama
+git clone https://github.com/UnbeatableRavees/SOCKETPIE_DOSTOOL_BY_RAVEES
+cd SOCKETPIE_DOSTOOL_BY_RAVEES
+python pie.py
 ```
 
 # UPDATE  ⏳
@@ -67,7 +71,7 @@ https://user-images.githubusercontent.com/93824226/224707531-13c89059-9537-4ac5-
 https://user-images.githubusercontent.com/93824226/224642391-d1f90a2d-4730-4bbb-939e-5231ba658fe2.mp4
 
 
-# MAKE BY Hex1629 (👤🛠️)
+# MAKE BY RAVEES (👤🛠️)
 💸 YOU CAN RESELL BUT YOU NEED TO WRITE CREDIT ME.
 
 🛠️📁 IF YOU MAKE NEW VERSIONS WRITE CREDIT YOU TOO.
